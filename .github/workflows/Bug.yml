@@ -1,0 +1,6 @@
+name: [Bug]
+
+on:
+  branch_protection_rule: 1
+  run on: create: 67.js
+  report: [Bug]
